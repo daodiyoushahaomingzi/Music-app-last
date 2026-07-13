@@ -1,0 +1,17 @@
+# 前后端共用忽略规则
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log
+
+# 鸿蒙前端产物
+build/
+out/
+.hvigor/
+.ohos/
+
+# 系统垃圾
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
