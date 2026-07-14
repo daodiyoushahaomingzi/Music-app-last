@@ -2,7 +2,7 @@ import { Song, SearchResult, LyricLine, AudioQuality, SongQualityInfo, PlaylistI
 import http from '@ohos.net.http';
 import { CacheService } from './CacheService';
 
-const BASE_URL: string = 'http://10.243.40.54:3000';
+const BASE_URL: string = 'http://10.33.15.45:3000';
 const LYRIC_BASE: string = 'https://music.163.com/api/song/lyric';
 
 interface ArtistItem {
